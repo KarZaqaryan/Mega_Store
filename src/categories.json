@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "label": "Drinkes"
+    },
+    {
+        "id": 2,
+        "label": "Flowers"
+    },
+    {
+        "id": 3,
+        "label": "Meat"
+    },
+    {
+        "id": 4,
+        "label": "Food"
+    },
+    {
+        "id": 5,
+        "label": "Wedding"
+    }
+]

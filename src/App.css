@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap);
+@import url('./assets/style.css');
+.cardProduct{
+    width: 100px;
+
+    img{
+        width: 100%;
+    }
+}
+.cardActive{
+    border: 1px solid green;
+}
